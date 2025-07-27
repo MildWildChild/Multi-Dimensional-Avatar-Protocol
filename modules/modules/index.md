@@ -1,4 +1,4 @@
-# 🧭 MAP Modules Index
+# 🌕 MAP Modules Index
 
 Welcome to the core module directory of the **Multi-Dimensional Avatar Protocol (MAP)**.  
 Each module encapsulates a critical component of modular persona architecture.
@@ -18,8 +18,4 @@ Each module encapsulates a critical component of modular persona architecture.
 
 ---
 
-## ✍ Authored by: **MildWildChild**  
-© 2025 · Licensed under **MAP License Framework v1.0**  
-MIT-based with signature watermarking and attribution lock.
-
----
+© 2025 MildWildChild | MAP: Multi-Dimensional Avatar Protocol
