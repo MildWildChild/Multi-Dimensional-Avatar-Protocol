@@ -64,3 +64,9 @@ A civilization-grade personality protocol that transforms personas into programm
 1. Release `MAP Signature Checker`
 2. Deploy `MAP Persona Sync Pack` for GPT / Kimi / Claude
 3. Publish public launch video on X / YouTube
+
+
+### 📦 Explore Core Modules
+
+👉 [MAP Modules Directory](./modules/index.md)
+
