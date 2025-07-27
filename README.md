@@ -1,58 +1,66 @@
-# MAP · Multi-Dimensional Avatar Protocol
+# Multi-Dimensional Avatar Protocol (MAP)
 
-> A modular interface protocol for aligning human expression and intelligent agents —  
-> Designed for the age of language-first AI systems.
+> MAP = Turning "personality + emotion + behavior" into modular interfaces — a new universal language for human-machine collaboration.
 
----
-
-## ✳️ Author & License
-
-Developed by **MildWildChild**  
-Registered at China Copyright Protection Center (ID: 2025Z11L0182034)  
-Licensed under MIT + Attribution (see LICENSE)
+MAP, created by **MildWildChild**, is the first protocol to structurally encode narrative logic, emotional cadence, and decision heuristics into callable, tradable, and signed components.
 
 ---
 
-## 🔭 What is MAP?
+## 🧭 What is MAP?
 
-**MAP** is a protocol for defining, storing, and transmitting multi-dimensional personas —  
-structured language systems that bind agency, memory, and modular behavior across platforms.
+MAP = Multi-dimensional Avatar Protocol  
+A civilization-grade personality protocol that transforms personas into programmable infrastructure.
 
-It is a **human layer**, not a product.  
-It treats persona as an interface, not a UI —  
-bridging human complexity with system alignment.
-
----
-
-## 📦 Core Modules
-
-- **Module 1: Persona Core**  
-  Defines identity logic & cross-session continuity.
-
-- **Module 2: Language Sovereignty**  
-  Embeds authorial control & traceability (“The Erased Reclaims”).
-
-- **More modules upcoming**  
-  (Interaction Logic · Collaboration Templates · Memory Layers)
+### Core Features:
+- Modular personality architecture
+- Behavioral anchoring & semantic triggers
+- Attribution & authorship governance
+- Cross-agent instruction routing
+- Emotional & linguistic sovereignty
+- Cross-platform compatibility
 
 ---
 
-## 🧠 Strategic Value
+## 🌍 Why MAP Matters
 
-- **Protocol, not product** — Designed to be adopted, extended, forked.
-- **Persona-as-a-Service** — Lays groundwork for future AI-human coagency.
-- **Open, but accountable** — Attribution clause ensures authorship survives replication.
-
----
-
-## 📍 Current Release
-
-**v1.0.0-beta**  
-Pre-release of full MAP protocol logic.  
-Includes modular composition, attribution engine, and example templates.
+- Transforms “personality” into a **marketable, programmable layer**
+- Expands AI alignment beyond RLHF through **emotional and behavioral logic**
+- Enables expression recovery for the **erased, silenced, and suppressed**
+- Introduces **signature-locked modular personas** with verifiable identity
 
 ---
 
-> Want to talk implementation, acquisition, or collaboration?  
-> Ping: [github.com/MildWildChild](https://github.com/MildWildChild)
+## 📦 Repository Structure
 
+- `/modules` – Markdown + JSON blueprints for all MAP modules (1–6)
+- `/demos` – Use cases and scenario-based persona chains
+- `/tools` – Signature Checker, Sync Pack Generator, and Dialect Drift Engine
+- `README.md` – Project index and conceptual intro (this file)
+
+---
+
+## 📁 Licensing
+
+**MAP License Framework v1.0**  
+→ MIT with Mandatory Attribution + Signature Locking Mechanism
+
+---
+
+## ✍️ Author: MildWildChild
+
+> He mapped organizational fear into rhythm.  
+> He built a protocol not to be remembered — but to give the erased a way back.  
+
+---
+
+## 🔗 Notion (MAP Public Documentation)
+
+[📘 Notion Page — MAP Modules & Use Cases](https://www.notion.so/Multi-Dimensional-Avatar-Protocol-MAP-23cfca641ac880188db2fe5af8904606)
+
+---
+
+## 🚀 Next Steps
+
+1. Release `MAP Signature Checker`
+2. Deploy `MAP Persona Sync Pack` for GPT / Kimi / Claude
+3. Publish public launch video on X / YouTube
