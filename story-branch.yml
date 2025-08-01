@@ -1,0 +1,30 @@
+name: "📖 Propose Next Story Branch"
+description: Suggest a new branch of the MAP narrative
+title: "[Story Branch] <short title>"
+labels: ["story", "branch"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing to the MAP storyline.  
+        Please describe your proposed branch clearly.
+  - type: input
+    id: summary
+    attributes:
+      label: "Branch Summary"
+      description: "Write a 1-sentence summary of your proposed story branch."
+      placeholder: "e.g., The protocol is leaked to a rival faction..."
+  - type: textarea
+    id: details
+    attributes:
+      label: "Details"
+      description: "Expand your idea. What happens, who is involved, and what is the impact?"
+      placeholder: "Detailed narrative here..."
+  - type: dropdown
+    id: choice
+    attributes:
+      label: "Choice Type"
+      options:
+        - "Continuation of existing arc"
+        - "Alternative arc"
+        - "New subplot"
