@@ -15,6 +15,7 @@
 ---
 
 [![Star MAP](https://img.shields.io/badge/⭐%20Give%20a%20Star-成为见证者-yellow?style=for-the-badge)](../../stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/MildWildChild/Multi-Dimensional-Avatar-Protocol?label=见证人数&style=for-the-badge)](../../stargazers)
 
 ⭐ **见证 / Witness** → 点亮一颗 Star，你的名字会记录在见证者名单中。
 
