@@ -44,6 +44,22 @@
 每一次 Star，都是点燃剧情的火种。  
 Every ⭐ is a spark that advances the story.
 
+---
+
+## 🥚 Hidden Branches / 彩蛋分支
+
+[![Hidden Egg](https://img.shields.io/badge/⭐%20256-解锁隐藏协议⚡-blueviolet?style=flat-square)](../../stargazers)  
+[![Hidden Egg](https://img.shields.io/badge/⭐%201337-自动@ElonMusk🐦-black?style=flat-square)](../../stargazers)  
+[![Hidden Egg](https://img.shields.io/badge/⭐%202048-公开MAP自毁协议🔥-red?style=flat-square)](../../stargazers)
+
+📌 **隐藏规则 / Hidden Rules:**  
+- ⭐ 256 → 解锁「隐藏支线」：MAP Beta 测试日志  
+- ⭐ 1337 → 仓库自动发推 @Elon Musk，邀请见证 MAP  
+- ⭐ 2048 → 公布「MAP 自毁协议」，一份危险的文件，只在条件满足时解锁  
+
+---
+
+💡 *你永远不知道下一个彩蛋会点燃什么。*  
 
 ---
 
