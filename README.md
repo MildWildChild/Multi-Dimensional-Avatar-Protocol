@@ -3,8 +3,7 @@
 
 ---
 
-![MAP Banner](https://media.giphy.com/media/xTiTnzI9fG6J6MN0mM/giphy.gif)  
-*(Dynamic banner: the code rain of MAP · 动态横幅：MAP 的代码雨)*  
+![MAP Banner](./assets/banner.gif)
 
 ---
 
