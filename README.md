@@ -6,15 +6,28 @@
 
 ---
 
+## 🚪 Choose your path / 选择你的路径
 
-🚪 **Your path begins here / 你的旅程从这里开始**
+[![Vote in Issues](https://img.shields.io/badge/🚀%20Vote%20Now%20→-MAP%20Issues-brightgreen?style=for-the-badge)](../../issues)
 
-[![前往 Issues 投票](https://img.shields.io/badge/🔥%20去投票%20→-MAP%20Issues-red?style=for-the-badge)](../../issues)
+🗳 **投票 / Vote** → 进入 Issues，决定 MAP 的下一章。
 
-每一次选择，都会决定 MAP 的下一章走向。  
-Every choice you make will shape the next chapter of MAP.
+---
 
+[![Star MAP](https://img.shields.io/badge/⭐%20Give%20a%20Star-成为见证者-yellow?style=for-the-badge)](../../stargazers)
 
+⭐ **见证 / Witness** → 点亮一颗 Star，你的名字会记录在见证者名单中。
+
+---
+
+[![Fork MAP](https://img.shields.io/badge/🍴%20Fork%20the%20Repo-开启平行宇宙-blue?style=for-the-badge)](../../fork)
+
+🍴 **开启 / Fork** → 复制仓库，开辟属于你的平行宇宙。
+
+---
+
+每一次选择，都会决定 MAP 的走向。  
+Every choice you make will shape the destiny of MAP.
 
 ---
 
