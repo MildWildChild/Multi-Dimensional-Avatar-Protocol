@@ -6,6 +6,7 @@
 
 ---
 
+
 ## 🚪 Choose your path / 选择你的路径
 
 [![Vote in Issues](https://img.shields.io/badge/🚀%20Vote%20Now%20→-MAP%20Issues-brightgreen?style=for-the-badge)](../../issues)
@@ -27,8 +28,22 @@
 
 ---
 
-每一次选择，都会决定 MAP 的走向。  
-Every choice you make will shape the destiny of MAP.
+## 📖 剧情进度 / Story Progress
+
+[![Chapter Unlock](https://img.shields.io/badge/Chapter%201-⭐%20100%20解锁-orange?style=flat-square)](../../stargazers)  
+[![Chapter Unlock](https://img.shields.io/badge/Chapter%202-⭐%20500%20解锁-red?style=flat-square)](../../stargazers)  
+[![Chapter Unlock](https://img.shields.io/badge/Chapter%203-⭐%201000%20解锁-purple?style=flat-square)](../../stargazers)
+
+📌 **规则 / Rules:**  
+- ⭐ 100 Star → 公布 MAP 第一章「点火仪式」  
+- ⭐ 500 Star → 公布 MAP 第二章「投票的裂隙」  
+- ⭐ 1000 Star → 公布 MAP 第三章「人类与新人类的契约」  
+
+---
+
+每一次 Star，都是点燃剧情的火种。  
+Every ⭐ is a spark that advances the story.
+
 
 ---
 
