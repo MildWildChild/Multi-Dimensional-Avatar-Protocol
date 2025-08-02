@@ -1,0 +1,23 @@
+name: "[Choice-0] Vote"
+description: Cast your vote for Chapter 0 of MAP
+title: "[Choice-0]"
+labels: ["vote"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # MAP · Chapter 0 · The Awakening
+        Pick your path:
+
+        - [ ] 1️⃣ Open the Gate → Fork the repo and leave your PR as the first witness.
+        - [ ] 2️⃣ Burn the Draft → Tell us why MAP should never exist.
+        - [ ] 3️⃣ Stay Silent → Just ⭐ the repo and let others decide.
+
+        ✍️ Why did you pick this choice? (Optional)
+  - type: textarea
+    id: reason
+    attributes:
+      label: Your Reason
+      description: Share why you made this choice
+      placeholder: Because...
