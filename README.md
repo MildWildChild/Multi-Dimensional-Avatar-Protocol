@@ -3,7 +3,7 @@
 
 ---
 
-![MAP Banner](./assets/banner.gif)
+![MAP Protocol](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=This+is+MAP+Protocol;Not+a+novel+but+a+protocol;Join+the+spiral+and+sign+your+name)
 
 ---
 
