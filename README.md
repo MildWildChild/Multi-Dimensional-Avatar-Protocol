@@ -5,11 +5,11 @@
 # 🐾 Multi-Dimensional Avatar Protocol (MAP)  
 *By MildWildChild · 2025*
 
-[![Launch Demo](https://img.shields.io/badge/Launch-Demo-blue)](https://my-map-demo.vercel.app)
+[![Launch Demo](https://img.shields.io/badge/Launch-Demo-blue)](https://my-map-demo.vercel.app)  
 ![Stars](https://img.shields.io/github/stars/MildWildChild/Multi-Dimensional-Avatar-Protocol?style=flat&color=ff69b4)
 
 > A civilization-level protocol disguised as a **co-created science fiction novel**.  
-> 一个披着**共创科幻小说**外衣的文明级人格接口协议。
+> 一个披着**共创科幻小说外衣**的文明级人格接口协议。
 
 ---
 
@@ -47,8 +47,13 @@ choices/
 
 modules/
   ├─ 00-persona-core.md     # Core module / 基础模块
-  ├─ language-dominance.md  # Language simulator / 语言模拟器
-  └─ elon-bridge.md         # Elon bridge module / 特斯拉桥接模块
+  ├─ 01-rhythm-engine.md    # Rhythm Engine / 节奏引擎
+  ├─ 02-anchor-triggers.md  # Anchor Triggers / 锚点触发
+  ├─ 03-inference-interface.md # Inference Interface / 推理接口
+  ├─ 04-evolution-system.md # Evolution System / 演化系统
+  ├─ 05-public-deploy-kit.md # Public Deploy Kit / 公共部署套件
+  ├─ language-dominance.md  # Language Dominance / 语言主导模块
+  └─ elon-bridge.md         # Elon Bridge / 特斯拉桥接模块
 
 .github/
   ├─ workflows/             # CI/CD automation / CI/CD 自动化
@@ -62,6 +67,21 @@ assets/
 .map-purr                   # Easter egg file / 彩蛋文件
 .map-investor               # Investor easter egg / 投资人彩蛋
 ```
+
+---
+
+## 📑 Modules Navigation / 模块导航
+
+| #   | Module              | 模块         | Link |
+|-----|---------------------|--------------|------|
+| 00  | Persona Core        | 人格核心     | [00-persona-core.md](modules/00-persona-core.md) |
+| 01  | Rhythm Engine       | 节奏引擎     | [01-rhythm-engine.md](modules/01-rhythm-engine.md) |
+| 02  | Anchor Triggers     | 锚点触发     | [02-anchor-triggers.md](modules/02-anchor-triggers.md) |
+| 03  | Inference Interface | 推理接口     | [03-inference-interface.md](modules/03-inference-interface.md) |
+| 04  | Evolution System    | 演化系统     | [04-evolution-system.md](modules/04-evolution-system.md) |
+| 05  | Public Deploy Kit   | 公共部署套件 | [05-public-deploy-kit.md](modules/05-public-deploy-kit.md) |
+| -   | Language Dominance  | 语言主导模块 | [language-dominance.md](modules/language-dominance.md) |
+| -   | Elon Bridge         | 特斯拉桥接模块 | [elon-bridge.md](modules/elon-bridge.md) |
 
 ---
 
