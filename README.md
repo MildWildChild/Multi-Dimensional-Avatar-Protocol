@@ -1,10 +1,15 @@
+<p align="center">
+  <img src="assets/map-logo.png" width="420" alt="MAP Logo"/>
+</p>
+
 # 🐾 Multi-Dimensional Avatar Protocol (MAP)  
 *By MildWildChild · 2025*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> A civilization-level personality interface bridging **human narratives** and **AI-driven agents**.  
-> 一个连接 **人类叙事** 与 **AI 智能体** 的文明级人格接口。
+> MAP is designed as a **civilization-level protocol**.  
+> Its long-term mission: to bridge human language, AI agents, and post-human ecosystems (Tesla / Neuralink / xAI).  
+> MAP（多维协议）是一个**文明级人格接口方案**，旨在连接人类语言、AI智能体与后人类生态。
 
 ---
 
@@ -50,7 +55,8 @@ choices/
 
 modules/
   ├─ persona-core.md        # MAP 基础模块
-  └─ language-dominance.md  # 语言模拟器
+  ├─ language-dominance.md  # 语言模拟器
+  └─ elon-bridge.md         # 特斯拉桥接模块
 ```
 
 ---
@@ -65,6 +71,10 @@ modules/
   > Controls style, semantic adaptation, and narrative rhythm.  
   > 它是 MAP 的“声音”，决定第一印象。
 
+- 🚀 **Elon Bridge**  
+  > Aligns MAP with ecosystems like Tesla, Neuralink, and xAI.  
+  > 这是 MAP 的文明桥接模块，使其成为跨生态基础协议。
+
 ---
 
 ## 🌟 Roadmap / 星标里程碑
@@ -74,6 +84,7 @@ Help this cat grow by starring ⭐ the repo:
 - ⭐ **512 Stars** → 🐾 Release `docker run map/mini:512`  
 - ⭐ **1024 Stars** → 🐱 Unlock "Cat Language Translator" submodule  
 - ⭐ **2048 Stars** → 💫 Gentle self-destruction Easter Egg  
+- ⭐ **4096 Stars** → 🛰 Activate **Seldon Protocol**: public hand-off to Musk ecosystem  
 
 ---
 
