@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/map-logo.png" width="420" alt="MAP Logo"/>
+</p>
+
 # 🐾 Multi-Dimensional Avatar Protocol (MAP)  
 *By MildWildChild · 2025*
 
@@ -14,28 +18,34 @@ Run MAP instantly:
 npx map-demo
 # or
 docker run map/mini
-🌌 What is MAP? / 什么是 MAP？
-MAP (Multi-Dimensional Avatar Protocol) is a framework for building multi-layered personas.
-It merges identity anchors, emotional loops, and language dominance into a sustainable structure.
+```
 
-<details> <summary>📖 中文说明（点开）</summary>
-MAP（Multi-Dimensional Avatar Protocol，多维协议）是一个文明级人格接口方案。
-它的目标是把人类的叙事系统与 AI 智能体结合，
-让智能体具备「人格 + 情绪 + 记忆」三重维度，能够长期进化。
+---
 
-核心设计理念：
+## 🌌 What is MAP? / 什么是 MAP？
 
-身份锚定：智能体必须知道自己“是谁”；
+> MAP (Multi-Dimensional Avatar Protocol) is a framework for building **multi-layered personas**.  
+> It merges identity anchors, emotional loops, and language dominance into a sustainable structure.  
 
-情绪回路：保证交流不生硬，能带有温度和连续性；
+<details>
+<summary>📖 中文说明（点开）</summary>
 
-长期记忆：智能体不是一次性脚本，而是能随时间成长。
+MAP（Multi-Dimensional Avatar Protocol，多维协议）是一个**文明级人格接口方案**。  
+它的目标是把人类的叙事系统与 AI 智能体结合，  
+让智能体具备「人格 + 情绪 + 记忆」三重维度，能够长期进化。  
+
+核心设计理念：  
+1. **身份锚定**：智能体必须知道自己“是谁”；  
+2. **情绪回路**：保证交流不生硬，能带有温度和连续性；  
+3. **长期记忆**：智能体不是一次性脚本，而是能随时间成长。  
 
 </details>
-📂 Repository Structure / 仓库结构
-bash
-复制
-编辑
+
+---
+
+## 📂 Repository Structure / 仓库结构
+
+```
 choices/
   ├─ chapter0.md   # 开篇剧情
   └─ chapter1.md   # 投票后解锁
@@ -43,30 +53,40 @@ choices/
 modules/
   ├─ persona-core.md        # MAP 基础模块
   └─ language-dominance.md  # 语言模拟器
-🧩 Core Modules / 核心模块
-🔑 Persona Core
+```
 
-Defines identity anchors, emotional loops, and long-term memory.
-没有它，任何 MAP 智能体都无法稳定存在。
+---
 
-🗣 Language Dominance
+## 🧩 Core Modules / 核心模块
 
-Controls style, semantic adaptation, and narrative rhythm.
-它是 MAP 的“声音”，决定第一印象。
+- 🔑 **Persona Core**  
+  > Defines identity anchors, emotional loops, and long-term memory.  
+  > 没有它，任何 MAP 智能体都无法稳定存在。
 
-🌟 Roadmap / 星标里程碑
+- 🗣 **Language Dominance**  
+  > Controls style, semantic adaptation, and narrative rhythm.  
+  > 它是 MAP 的“声音”，决定第一印象。
+
+---
+
+## 🌟 Roadmap / 星标里程碑
+
 Help this cat grow by starring ⭐ the repo:
 
-⭐ 512 Stars → 🐾 Release map-mini Docker image
+- ⭐ **512 Stars** → 🐾 Release `map-mini` Docker image  
+- ⭐ **1024 Stars** → 🐱 Unlock "Cat Language Translator" submodule  
+- ⭐ **2048 Stars** → 💫 Gentle self-destruction Easter Egg  
 
-⭐ 1024 Stars → 🐱 Unlock "Cat Language Translator" submodule
+---
 
-⭐ 2048 Stars → 💫 Gentle self-destruction Easter Egg
+## ⚖️ License
 
-⚖️ License
-SPDX-License-Identifier: MIT AND LicenseRef-Signature-Locking
+SPDX-License-Identifier: MIT AND LicenseRef-Signature-Locking  
 
-🐈 Closing Note
-This repository is a living cat.
-Every ⭐ star is a stroke on its fur,
-every PR is a new purr in the night.
+---
+
+## 🐈 Closing Note
+
+This repository is a living cat.  
+Every ⭐ star is a stroke on its fur,  
+every PR is a new purr in the night.  
