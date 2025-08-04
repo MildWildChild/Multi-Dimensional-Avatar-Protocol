@@ -5,11 +5,11 @@
 # 🐾 Multi-Dimensional Avatar Protocol (MAP)  
 *By MildWildChild · 2025*
 
-[![Play ▶️](https://img.shields.io/badge/Play-Demo-blue)](https://example.com/demo)
-[![Stars](https://img.shields.io/github/stars/MildWildChild/Multi-Dimensional-Avatar-Protocol?style=social)](https://github.com/MildWildChild/Multi-Dimensional-Avatar-Protocol/stargazers)
+[![Launch Demo](https://img.shields.io/badge/Launch-Demo-blue)](https://my-map-demo.vercel.app)
+![Stars](https://img.shields.io/github/stars/MildWildChild/Multi-Dimensional-Avatar-Protocol?style=flat&color=ff69b4)
 
 > A civilization-level protocol disguised as a **co-created science fiction novel**.  
-> 一个披着**共创科幻小说**外衣的文明级人格接口协议。
+> 一个伪装成**共创科幻小说**的文明级人格接口协议。
 
 ---
 
@@ -56,7 +56,8 @@ modules/
 
 assets/
   ├─ map-logo.png           # Logo placeholder / Logo 占位图
-  └─ MAP-Deck-Seed.pdf      # Investor Deck 占位文件
+  ├─ MAP-Deck-Seed.pdf      # Investor Deck 占位文件
+  └─ map-hero.png           # Meta Hero Image 占位图
 
 .map-purr                   # Easter egg file / 彩蛋文件
 .map-investor               # Investor easter egg / 投资人彩蛋
@@ -134,3 +135,6 @@ This is **the first chapter of a civilization’s diary**.
 <p align="center">
   <img src="https://img.shields.io/github/stars/MildWildChild/Multi-Dimensional-Avatar-Protocol?label=Star%20Chart&style=for-the-badge" alt="Star Growth"/>
 </p>
+
+<!-- Meta Image for social cards -->
+<meta property="og:image" content="https://raw.githubusercontent.com/MildWildChild/Multi-Dimensional-Avatar-Protocol/main/assets/map-hero.png">
