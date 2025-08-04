@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/map-logo.png" width="420" alt="MAP Logo"/>
-</p>
-
 # 🐾 Multi-Dimensional Avatar Protocol (MAP)  
 *By MildWildChild · 2025*
 
