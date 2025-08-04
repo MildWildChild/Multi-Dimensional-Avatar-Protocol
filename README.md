@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="assets/map-logo.png" width="420" alt="MAP Logo"/>
+</p>
+
 # 🐾 Multi-Dimensional Avatar Protocol (MAP)  
 *By MildWildChild · 2025*
 
-![MAP Protocol](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=This+is+MAP+Protocol;Not+a+novel+but+a+protocol;Join+the+spiral+and+sign+your+name)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > A civilization-level personality interface bridging **human narratives** and **AI-driven agents**.  
 > 一个连接 **人类叙事** 与 **AI 智能体** 的文明级人格接口。
@@ -13,7 +17,7 @@
 Run MAP instantly:  
 
 ```bash
-npx map-demo
+npx @map/cli demo
 # or
 docker run map/mini
 ```
@@ -71,7 +75,7 @@ modules/
 
 Help this cat grow by starring ⭐ the repo:
 
-- ⭐ **512 Stars** → 🐾 Release `map-mini` Docker image  
+- ⭐ **512 Stars** → 🐾 Release `docker run map/mini:512`  
 - ⭐ **1024 Stars** → 🐱 Unlock "Cat Language Translator" submodule  
 - ⭐ **2048 Stars** → 💫 Gentle self-destruction Easter Egg  
 
