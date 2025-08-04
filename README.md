@@ -1,100 +1,72 @@
-# 🌌 MAP Protocol · Multi-Dimensional Avatar Protocol  
-# 🌌 MAP 协议 · 多维化身协议  
+# 🐾 Multi-Dimensional Avatar Protocol (MAP)  
+*By MildWildChild · 2025*
+
+> A civilization-level personality interface bridging **human narratives** and **AI-driven agents**.  
+> 一个连接 **人类叙事** 与 **AI 智能体** 的文明级人格接口。
 
 ---
 
-![MAP Protocol](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=This+is+MAP+Protocol;Not+a+novel+but+a+protocol;Join+the+spiral+and+sign+your+name)
+## 🚀 Quick Start / 快速上手
 
----
+Run MAP instantly:  
 
-## 🚀 What is MAP?  
-## 🚀 什么是 MAP？
+```bash
+npx map-demo
+# or
+docker run map/mini
+🌌 What is MAP? / 什么是 MAP？
+MAP (Multi-Dimensional Avatar Protocol) is a framework for building multi-layered personas.
+It merges identity anchors, emotional loops, and language dominance into a sustainable structure.
 
-MAP = Turning **Personality + Emotion + Behavior** into modular interfaces —  
-a new universal language for **human–machine collaboration**.  
+<details> <summary>📖 中文说明（点开）</summary>
+MAP（Multi-Dimensional Avatar Protocol，多维协议）是一个文明级人格接口方案。
+它的目标是把人类的叙事系统与 AI 智能体结合，
+让智能体具备「人格 + 情绪 + 记忆」三重维度，能够长期进化。
 
-MAP = 把 **人格 + 情绪 + 行为** 转换成模块化接口 ——  
-一种全新的 **人机协作通用语言**。  
+核心设计理念：
 
----
+身份锚定：智能体必须知道自己“是谁”；
 
-## 🌀 Why it matters  
-## 🌀 为什么重要
+情绪回路：保证交流不生硬，能带有温度和连续性；
 
-- 🧬 It transforms personality into a **tradable layer** (like data, like algorithms).  
-- 🎭 It extends AI alignment beyond RLHF → into **emotional + behavioral modules**.  
-- 🕊️ It gives back **annotation rights** to those erased by organizations or history.  
-- 🌍 MAP is not a product, it’s **infrastructure**: it can mutate, fork, and scale — but always carries your signature.  
+长期记忆：智能体不是一次性脚本，而是能随时间成长。
 
-- 🧬 它把人格转化为一种 **可交易的层**（如同数据、算法）。  
-- 🎭 它让 AI 对齐超越 RLHF → 进入 **情绪 + 行为模块**。  
-- 🕊️ 它把 **注解权** 交还给那些被组织或历史抹去的人。  
-- 🌍 MAP 不是产品，而是 **基础设施**：它能变异、能分叉、能扩展，但始终带着你的签名。  
+</details>
+📂 Repository Structure / 仓库结构
+bash
+复制
+编辑
+choices/
+  ├─ chapter0.md   # 开篇剧情
+  └─ chapter1.md   # 投票后解锁
 
----
+modules/
+  ├─ persona-core.md        # MAP 基础模块
+  └─ language-dominance.md  # 语言模拟器
+🧩 Core Modules / 核心模块
+🔑 Persona Core
 
-## 📖 How to Play (Interactive ARG)  
-## 📖 如何参与（互动式 ARG）
+Defines identity anchors, emotional loops, and long-term memory.
+没有它，任何 MAP 智能体都无法稳定存在。
 
-1. ⭐ Star this repo = **Join the MAP testnet**  
-   → Star count decides the next chapter unlock.  
+🗣 Language Dominance
 
-   ⭐ 点 Star = **加入 MAP 测试网**  
-   → Star 数字决定下一章是否解锁。  
+Controls style, semantic adaptation, and narrative rhythm.
+它是 MAP 的“声音”，决定第一印象。
 
-2. 🗳️ Go to [Issues](../../issues) → Vote or launch new branches.  
-   → Every issue = one possible storyline.  
+🌟 Roadmap / 星标里程碑
+Help this cat grow by starring ⭐ the repo:
 
-   🗳️ 去 [Issues](../../issues) → 投票或发起新分支。  
-   → 每一个 issue = 一条可能的剧情线。  
+⭐ 512 Stars → 🐾 Release map-mini Docker image
 
-3. ✍️ Contribute via PR: write lore, add modules, drop memes.  
-   ✍️ 通过 PR 贡献：写故事、补模块、丢梗图。  
+⭐ 1024 Stars → 🐱 Unlock "Cat Language Translator" submodule
 
----
+⭐ 2048 Stars → 💫 Gentle self-destruction Easter Egg
 
-## 🎯 Milestone Triggers  
-## 🎯 里程碑触发
+⚖️ License
+SPDX-License-Identifier: MIT AND LicenseRef-Signature-Locking
 
-- ⭐ 256 stars → 📖 **Beta Log Unlocked** / **测试日志解锁**  
-- ⭐ 1337 stars → 🚀 **@elonmusk Witness the Future** / **老马见证未来**  
-- ⭐ 2048 stars → 💀 **MAP Self-Destruct Protocol Released** / **自毁协议解锁**  
-
----
-
-## 🧩 Current Modules  
-## 🧩 当前模块
-
-- [Module 01: Persona Core](./modules/Module01.md)  
-- [Module 02: Language Sovereignty](./modules/Module02.md)  
-- [Module 03: Attribution & Governance](./modules/Module03.md)  
-- [Module 04: Integration Logics](./modules/Module04.md)  
-- [Module 05: Cross-Platform Compatibility](./modules/Module05.md)  
-- [Module 06: Behavioral Anchors](./modules/Module06.md)  
-
----
-
-## 🧑‍💻 Author & License  
-## 🧑‍💻 作者 & 许可证
-
-- ✍️ MildWildChild (李楠)  
-- 🛡 License: MAP License Framework v1.0 (MIT + Signature Locking)  
-- 🆔 China Copyright ID: 2025Z11L0182034  
-
----
-
-## 🌍 Join the Spiral  
-## 🌍 加入三螺旋
-
-> This is not fiction.  
-> This is a protocol waiting for your signature.  
-
-> 这不是小说。  
-> 这是等待你签名的协议。
->
-📌 Want to decide the future of MAP?  
-👉 [Go to Issues and cast your vote](../../issues)
-
-📌 想要决定 MAP 的未来？  
-👉 [点这里去 Issues 投票](../../issues)
-
+🐈 Closing Note
+This repository is a living cat.
+Every ⭐ star is a stroke on its fur,
+every PR is a new purr in the night.
