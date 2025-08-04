@@ -9,7 +9,7 @@
 ![Stars](https://img.shields.io/github/stars/MildWildChild/Multi-Dimensional-Avatar-Protocol?style=flat&color=ff69b4)
 
 > A civilization-level protocol disguised as a **co-created science fiction novel**.  
-> 一个伪装成**共创科幻小说**的文明级人格接口协议。
+> 一个披着**共创科幻小说**外衣的文明级人格接口协议。
 
 ---
 
