@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="assets/map-logo.png" width="420" alt="MAP Logo"/>
-</p>
-
 # 🐾 Multi-Dimensional Avatar Protocol (MAP)  
 *By MildWildChild · 2025*
 
 > A civilization-level protocol disguised as a **co-created science fiction novel**.  
-> 一个伪装成**共创科幻小说**的文明级人格接口协议。
+> 一个假装成**共创科幻小说**的文明级人格接口协议。
 
 ---
 
