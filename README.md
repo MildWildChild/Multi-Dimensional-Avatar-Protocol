@@ -90,4 +90,11 @@ MAP = 把 **人格 + 情绪 + 行为** 转换成模块化接口 ——
 > This is a protocol waiting for your signature.  
 
 > 这不是小说。  
-> 这是等待你签名的协议。  
+> 这是等待你签名的协议。
+>
+> 📌 Want to decide the future of MAP?  
+👉 [Go to Issues and cast your vote](../../issues)
+
+📌 想要决定 MAP 的未来？  
+👉 [点这里去 Issues 投票](../../issues)
+
