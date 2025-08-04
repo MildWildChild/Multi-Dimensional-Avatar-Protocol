@@ -1,14 +1,7 @@
-# MAP · Chapter 0 · The Awakening
+# Chapter 0 · 序章
 
-You stand at the threshold of a new protocol.  
-The MAP has been ignited, but its first move depends on you.  
+这是故事的开端。  
+你即将进入一个基于 **MAP（Multi-Dimensional Avatar Protocol）** 的互动叙事世界。  
 
-## Your Choice:
-1️⃣ Open the Gate → Fork the repo and leave your PR as the first witness.  
-2️⃣ Burn the Draft → Comment below why MAP should never exist.  
-3️⃣ Stay Silent → Just ⭐ the repo and let others decide.  
-
----
-🗳️ How to Vote:  
-- Open an **Issue** with the title `[Choice-0]` + your pick.  
-- Example: `[Choice-0] Open the Gate`
+未来的走向，由你的选择决定。  
+请用投票来推动剧情的发展。  
