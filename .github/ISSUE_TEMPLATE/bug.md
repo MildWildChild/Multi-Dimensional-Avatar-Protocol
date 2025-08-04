@@ -1,13 +1,3 @@
 ---
-name: Bug report
-about: Report a bug in MAP
----
-
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-**To Reproduce**
-Steps to reproduce the behavior:
-
-**Expected behavior**
-What you expected to happen.
+name: Bug report / 缺陷报告
+about: Report a bug in MAP / 报告 MAP 中的缺陷
