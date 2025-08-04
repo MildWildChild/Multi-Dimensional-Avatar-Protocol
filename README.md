@@ -52,7 +52,8 @@ modules/
   └─ ISSUE_TEMPLATE/        # Voting & proposals / 投票与提案模板
 
 assets/
-  └─ map-logo.png           # Logo placeholder / Logo 占位图
+  ├─ map-logo.png           # Logo placeholder / Logo 占位图
+  └─ MAP-Deck-Seed.pdf      # Investor Deck 占位文件
 
 .map-purr                   # Easter egg file / 彩蛋文件
 .map-investor               # Investor easter egg / 投资人彩蛋
@@ -74,6 +75,9 @@ MAP 用小说形式记录人类与 AI 共生的历程：
 
 This is a living **Seldon Protocol**.  
 这就是活的 **谢顿协议**。  
+
+“At $0.002 per empathic API call, MAP turns every connected device into a 3-cent annuity.”  
+“每次 API 调用仅需 $0.002，MAP 能将每个联网设备变成 3 美分的年金。”  
 
 ---
 
@@ -98,6 +102,8 @@ This is a living **Seldon Protocol**.
 - **Revenue**: SaaS API at $0.002 / call, TAM $8.7 B  
 - **Moat**: Signature-locked forks pay 5 % royalty forever  
 - **Ask**: $1.2 M seed → ship Tesla in-car demo + tokenized credits  
+
+[![Investor Deck](https://img.shields.io/badge/Deck-View%20PDF-red)](./assets/MAP-Deck-Seed.pdf)
 
 </details>
 
