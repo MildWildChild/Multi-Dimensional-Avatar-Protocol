@@ -5,6 +5,9 @@
 # 🐾 Multi-Dimensional Avatar Protocol (MAP)  
 *By MildWildChild · 2025*
 
+[![Play ▶️](https://img.shields.io/badge/Play-Demo-blue)](https://example.com/demo)
+[![Stars](https://img.shields.io/github/stars/MildWildChild/Multi-Dimensional-Avatar-Protocol?style=social)](https://github.com/MildWildChild/Multi-Dimensional-Avatar-Protocol/stargazers)
+
 > A civilization-level protocol disguised as a **co-created science fiction novel**.  
 > 一个伪装成**共创科幻小说**的文明级人格接口协议。
 
@@ -43,7 +46,7 @@ choices/
   └─ chapter1.md   # To be revealed after vote / 投票解锁
 
 modules/
-  ├─ persona-core.md        # Core module / 基础模块
+  ├─ 00-persona-core.md     # Core module / 基础模块
   ├─ language-dominance.md  # Language simulator / 语言模拟器
   └─ elon-bridge.md         # Elon bridge module / 特斯拉桥接模块
 
@@ -78,6 +81,9 @@ This is a living **Seldon Protocol**.
 
 “At $0.002 per empathic API call, MAP turns every connected device into a 3-cent annuity.”  
 “每次 API 调用仅需 $0.002，MAP 能将每个联网设备变成 3 美分的年金。”  
+
+> **ROI Preview**: Every 10 k API calls = 1 Model 3 windshield of revenue.  
+> [Investor Deck ↗](./assets/MAP-Deck-Seed.pdf)
 
 ---
 
@@ -122,3 +128,9 @@ This is not a repo.
 
 This is **the first chapter of a civilization’s diary**.  
 这是**文明日记的第一章**。  
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/MildWildChild/Multi-Dimensional-Avatar-Protocol?label=Star%20Chart&style=for-the-badge" alt="Star Growth"/>
+</p>
