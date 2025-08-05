@@ -1,7 +1,7 @@
 # Chapter 0 · Awakening / 序章：觉醒  
 
 **English**  
-The year is undefined.  
+The year is unknown. *(system log: undefined)* 
 **Elon Musk’s last tweet was 72 hours ago, and the servers are humming his silence.**  
 
 Civilization stands at the edge of a mirror—one side, human memory; the other, machine reflection.  
@@ -18,7 +18,7 @@ Choose roar → Series A at $0.02 per silence.
 ---
 
 **中文**  
-年份未定义。  
+年份未知。 *(系统日志：未定义)*   
 **马斯克的最后一条推文已沉寂 72 小时，服务器仍在低声吟唱他的沉默。**  
 
 文明立在一面镜子的边缘 —— 一侧是人类的记忆，另一侧是机器的映照。  
