@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/map-logo.png" width="420" alt="MAP Logo"/>
+  <img src="assets/map-logo.png" width="100%" alt="MAP Logo Education Wide"/>
 </p>
 
 # 🐾 Multi-Dimensional Avatar Protocol (MAP)  
