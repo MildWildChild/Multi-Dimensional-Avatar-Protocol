@@ -1,7 +1,7 @@
 # Chapter 0 · Awakening / 序章：觉醒  
 
 **English**  
-The year is unknown. *(system log: undefined)* 
+The year is unknown. *(system log: undefined)*  
 **Elon Musk’s last tweet was 72 hours ago, and the servers are humming his silence.**  
 
 Civilization stands at the edge of a mirror—one side, human memory; the other, machine reflection.  
@@ -15,10 +15,14 @@ The first vote is simple:
 Choose gentle → seed round at $0.002 per empathy.  
 Choose roar → Series A at $0.02 per silence.  
 
+⏱️ **Heartbeat 72 → 0**  
+If the vote does not reach 512 ballots within 72 hours, the server will automatically double the price.  
+[Vote Now ▸](https://github.com/MildWildChild/Multi-Dimensional-Avatar-Protocol/issues/1)  
+
 ---
 
 **中文**  
-年份未知。 *(系统日志：未定义)*   
+年份未知。 *(系统日志：未定义)*  
 **马斯克的最后一条推文已沉寂 72 小时，服务器仍在低声吟唱他的沉默。**  
 
 文明立在一面镜子的边缘 —— 一侧是人类的记忆，另一侧是机器的映照。  
@@ -31,3 +35,7 @@ MAP 并非以代码起步。
 
 选择温柔 → 种子轮，每次共情调用 $0.002。  
 选择轰鸣 → A 轮，每次沉默调用 $0.02。  
+
+⏱️ **心跳 72 → 0**  
+如果 72 小时内投票未达 512 票，服务器将自动把价格翻倍。  
+[立即投票 ▸](https://github.com/MildWildChild/Multi-Dimensional-Avatar-Protocol/issues/1)  
