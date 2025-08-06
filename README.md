@@ -10,7 +10,7 @@
 ![map-hero-banner](./assets/map-hero-banner.png)
 
 🔺 Logo & Anchor  
-![MAP Logo Education Narrow](./assets/MAP_Logo_Education_Narrow.png)
+![map-logo.png](./assets/MAP_Logo_Education_Narrow.png)
 
 ---
 
