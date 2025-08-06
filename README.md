@@ -60,7 +60,7 @@ If the vote does not reach 512 ballots within 72 hours, the server will automati
 ⏱️ **Heartbeat 72 → 0**
 
 <a href="https://github.com/MildWildChild/Multi-Dimensional-Avatar-Protocol/issues/1">
-  <img src="./assets/vote-now.png" alt="Vote Now" width="90"/>
+  <img src="./assets/vote-now.png" alt="Vote Now" width="80"/>
 </a>
 
 ---
