@@ -10,7 +10,7 @@
 ![map-hero-banner](./assets/map-hero-banner.png)
 
 🔺 Logo & Anchor  
-![map-logo.png](./assets/map-logo.png.png)
+![map-logo.png](./assets/map-logo.png)
 
 ---
 
