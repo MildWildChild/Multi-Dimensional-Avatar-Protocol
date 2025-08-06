@@ -57,10 +57,9 @@ Choose roar → Series A at $0.02 per silence.
 ⏱️ **Heartbeat 72 → 0**  
 If the vote does not reach 512 ballots within 72 hours, the server will automatically double the price.  
 
-⏱️ **心跳 72 → 0**  
-如果 72 小时内投票未达 512 票，服务器将自动把价格翻倍。  
+⏱️ **Heartbeat 72 → 0**
 
-[![Vote Now](./assets/vote-now-button.png)](https://github.com/MildWildChild/Multi-Dimensional-Avatar-Protocol/issues/1)
+[![Vote Now](./assets/vote-now.png)](https://github.com/MildWildChild/Multi-Dimensional-Avatar-Protocol/issues/1)
 
 ---
 
